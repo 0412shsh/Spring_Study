@@ -23,7 +23,7 @@ public class HelloApp {
 		
 		//MessageBeanKr 객체
 		MessageBeanKr mbk = new MessageBeanKr();
-		mbk.sayHello("랄라");
+		mbk.sayHello("랄라"); 
 		
 		//MessageBeanEn 객체
 		MessageBeanEn mbe = new MessageBeanEn();
